@@ -1,0 +1,2 @@
+azure-functions==1.8.0
+azure-functions-durable==1.1.3
